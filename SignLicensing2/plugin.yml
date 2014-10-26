@@ -1,0 +1,8 @@
+name: SignLicensing2
+author: IProBev Shybella
+version: 1.0
+description: Plugin built to enable players to buy access to banned items on a server.
+main: me.IProBev.Shybella.SignLicensing2.Main
+depend: [Vault]
+commands:
+
